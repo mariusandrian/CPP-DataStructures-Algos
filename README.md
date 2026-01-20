@@ -1,9 +1,13 @@
-# cpp-dsa
-C++ Data Structures and Algorithms
+# C++ Data Structures and Algorithms
 
-A one-stop repo to store my implementations of C++ Standard Library for self-study. 📚
+## Introduction
+My implementations of C++ Standard Library for self-study 📚
 
-## Run
-```clang++ -std=c++11 main.cpp -o main.o && ./main.o```
+- [std::array](https://github.com/mariusandrian/CPP-DataStructures-Algos/blob/main/array/array_t.h)
+- [std::forward_list](https://github.com/mariusandrian/CPP-DataStructures-Algos/blob/main/linked_list/forward_list.h)
+- [std::unordered_map](https://github.com/mariusandrian/CPP-DataStructures-Algos/blob/main/unordered_map/umap.h)
+- [std::vector](https://github.com/mariusandrian/CPP-DataStructures-Algos/blob/main/vector/main.cpp)
 
-Will change to other compiler if the need arises.
+## Future works
+- Cleanup Cmake 
+- std::unique_ptr
